@@ -3,7 +3,7 @@
 
 from Classes_and_objects import Student
 
-Student1 = Student ("Joji", "ECE", 3.2, True)
+Student1 = Student ("Jos", "ECE", 3.2, True)
 Student2 = Student ("Mike", "EEE", 6.99, False)
 
 print (Student1.name)
