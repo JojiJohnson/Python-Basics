@@ -1,5 +1,5 @@
 
-for letters in "Joji Johnson":
+for letters in "Jim Corbet":
     print (letters)
 
 for name in ["Jim", "Karen", "Kevin"]:
