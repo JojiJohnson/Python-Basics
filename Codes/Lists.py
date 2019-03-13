@@ -4,5 +4,5 @@ print (myfriends[1])
 print (myfriends[-1]) # -ve numbers access the data from backwards
 print (myfriends[1:])
 print (myfriends[1:3])
-myfriends[2] = "Joji" # replacing a specific data
+myfriends[2] = "Steve" # replacing a specific data
 print (myfriends[2:])
